@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import PersonCard from './components/PersonCard'
+import BirthdayButton from './components/BirthdayButton'
 
 function App() {
   return (
