@@ -10,7 +10,7 @@ function App() {
         <PersonCard 
           firstName="Mark"
           lastName="Tamura"
-          age={33}
+          age={99}
           hairColor="black"/>
         <PersonCard 
           firstName="Isiah"
